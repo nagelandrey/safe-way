@@ -4,9 +4,15 @@ import TheFooter from "~/components/TheFooter.vue";
 </script>
 
 <template>
-  <div>
+  <div class="wrapper">
     <TheHeader />
     <NuxtPage />
     <TheFooter />
   </div>
 </template>
+
+<style scoped>
+.wrapper {
+  position: relative;
+}
+</style>

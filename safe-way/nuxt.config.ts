@@ -10,4 +10,7 @@ export default defineNuxtConfig({
       title: 'Безопасный путь в лучшую жизнь',
     },
   },
+  css: [
+    '@/assets/css/style.css'
+  ]
 })

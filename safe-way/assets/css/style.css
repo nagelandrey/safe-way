@@ -1,0 +1,11 @@
+body {
+    --white-text: #FFFFFF;
+    --black-text: #2A2B2B;
+    margin: 0;
+    padding: 0;
+    font-family: Inter, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.25;
+    color: var(--white-text);
+}
