@@ -30,6 +30,7 @@
   position: absolute;
   left: 0;
   top: 0;
+  z-index: 200;
   width: 100%;
   margin: 0;
   padding: 0;
